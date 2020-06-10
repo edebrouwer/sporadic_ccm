@@ -1,6 +1,8 @@
 # Sporadic CCM
 
-This package contains the python implementation of the paper : "Inferring Causal Dependencies between Chaotic Dynamical Systemsfrom Sporadic Time Series"
+This package contains the python implementation of the paper : "Inferring Causal Dependencies between Chaotic Dynamical Systemsfrom Sporadic Time Series".
+
+Authors : Edward De Brouwer, Adam Arany, Jaak Simm and Yves Moreau.
 
 ## Dependencies.
 
