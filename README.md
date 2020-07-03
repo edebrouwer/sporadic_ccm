@@ -6,7 +6,8 @@ Authors : Edward De Brouwer, Adam Arany, Jaak Simm and Yves Moreau.
 
 ## Dependencies.
 
-gru_ode : https://github.com/edebrouwer/gru_ode_bayes
+gru_ode : https://github.com/edebrouwer/gru_ode_bayes 
+
 skccm : https://skccm.readthedocs.io/en/latest/
 
 ## Installation.
